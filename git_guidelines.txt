@@ -1,0 +1,11 @@
+Creat a git repo on github first
+Clone for the first time by using git clone ON AN EMPTY folder on your machine
+Perform git init to start
+Create, edit, drag and drop or do whatever in this folder
+Whenever you will make any changes to any files in this folder, you can check it by using "git status"
+
+If you want to compare your local copy with the server copy (in case if someone added something on the server), you can do "git fetch"
+
+1. Use "git add <name of a file to be added to your git repo"> to add any files 
+2. Use "git commit -m "any comments"
+3. Use "git push" to push your changes to your remote server
